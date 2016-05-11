@@ -1,5 +1,5 @@
 module MyProject {
-    export class Bar {
+    export class Bar {       
         toString() {
             return "bar"
         }
