@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"outFile": "../build/module1.js",
+		"declaration": true,
+		"noImplicitAny": false
+	},
+	"ambientDependencies": [			
+	],
+	"files": [
+		"Foo.ts"		
+	]
+}
