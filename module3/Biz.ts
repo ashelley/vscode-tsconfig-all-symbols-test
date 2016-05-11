@@ -3,7 +3,7 @@ module MyProject {
         
         constructor() {
             var foo = new Foo()
-            var biz = new Biz()
+            var bar = new Bar()
         }
         
         toString() {
